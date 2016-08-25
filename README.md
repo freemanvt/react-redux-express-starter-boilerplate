@@ -1,7 +1,7 @@
 # React, Redux and ExpressJS starter boiler plate
 
 
-Simple React, Redux + ExpressJS starter boilerplate to get started quickly building ReactJS client app with an ExpressJS backend.
+Simple React, Redux + ExpressJS starter boilerplate to get you started quickly building ReactJS client app with an ExpressJS backend.
 
 ### Dependencies
 
