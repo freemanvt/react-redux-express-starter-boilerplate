@@ -1,7 +1,7 @@
 {
   "name": "react-redux-express-starter-boilerplate",
   "version": "1.0.0",
-  "description": "Reacy Redux Express starter boilerplate",
+  "description": "React Redux Express starter boilerplate",
   "main": "server/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
