@@ -1,0 +1,39 @@
+/**
+ * Styles to be used commonly across the app
+ */
+
+#root {
+  .form_validation_error {
+    color: #cc0000;
+    font-size: 1.3rem;
+    font-style: italic;
+    padding-top: 3px;
+  }
+
+  .form_field_comment {
+    font-size: 1.3rem;
+  }
+
+  label {
+    font-weight: 400;
+  }
+  label.required {
+    font-weight: 700;
+  }
+
+  em.required, label.required > em {
+    &:after {
+      content: '*';
+      color: #ee0000;
+      margin-left: 2px;
+    }
+  }
+
+  .form-control {
+    height: 30px;
+  }
+
+  .btn {
+    padding: 4px 12px;
+  }
+}
